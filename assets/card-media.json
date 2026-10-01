@@ -1,11 +1,6 @@
 {
   "name": "timelk",
   "language": "en",
-  "dimensions": [
-    640,
-    840
-  ],
-  "duration_seconds": 6.8,
   "original_source_modified": false,
   "files": [
     {
@@ -22,6 +17,39 @@
       "path": "assets/timelk-card.mp4",
       "bytes": 1703451,
       "sha256": "87149024227ffda72f24fb3cfd734e794b886150ae4c4b855ab57945cc2e9247"
+    },
+    {
+      "path": "assets/timelk-card-desktop.gif",
+      "bytes": 6685871,
+      "sha256": "221043278cbfc8c81945275421ec3fbd7cf36f8a230a800dd9435df519139362"
+    },
+    {
+      "path": "assets/timelk-card-desktop.png",
+      "bytes": 221522,
+      "sha256": "ab4b72848d9b7cf1d22ce8ddeb4580241843e5d56a31864a98bb1ca089b5c67c"
+    },
+    {
+      "path": "assets/timelk-card-desktop.mp4",
+      "bytes": 1345284,
+      "sha256": "7015c6e0c3303296fbbf9a147e21b8c3103a7f14afc598cba7a0ca764e4e9cab"
     }
-  ]
+  ],
+  "presentations": {
+    "desktop": {
+      "path": "assets/timelk-card-desktop.gif",
+      "dimensions": [
+        768,
+        400
+      ],
+      "duration_seconds": 6.6
+    },
+    "narrow": {
+      "path": "assets/timelk-card.gif",
+      "dimensions": [
+        640,
+        840
+      ],
+      "duration_seconds": 6.8
+    }
+  }
 }
