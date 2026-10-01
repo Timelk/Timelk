@@ -1,5 +1,5 @@
-# Profile artwork
+# timelk profile card
 
-The banner is original decorative artwork for Timelk: a readable name, abstract candle geometry and connected agent nodes. It is not an application screenshot or market forecast. The current PNG is the first frame of the prepared eight-second animation.
+The English PixelHoloCard was adapted in a separate copy of the owner's card project. The original portrait, English card text, pixel frame, holographic foil, levitation and tilt are retained. The visible name is `timelk`.
 
-The feature GIF in the profile links to the real open-tradingview recording and its source repository. The two SVG badges are original local assets and require no third-party badge service.
+The profile embeds a recording of the card as a GIF. The PNG and MP4 preserve a still and video copy. The original card project was not edited.

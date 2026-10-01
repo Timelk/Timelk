@@ -1,0 +1,27 @@
+{
+  "name": "timelk",
+  "language": "en",
+  "dimensions": [
+    640,
+    840
+  ],
+  "duration_seconds": 6.8,
+  "original_source_modified": false,
+  "files": [
+    {
+      "path": "assets/timelk-card.gif",
+      "bytes": 7994195,
+      "sha256": "a3b4f9f9162bd8a1cdc582626c44fe5498891adb1a8083739737678b625fcdba"
+    },
+    {
+      "path": "assets/timelk-card.png",
+      "bytes": 213990,
+      "sha256": "f41e5fc591635cc1f67977ebd30292b2d5ecb42f96859cbb50759cee650d78b1"
+    },
+    {
+      "path": "assets/timelk-card.mp4",
+      "bytes": 1703451,
+      "sha256": "87149024227ffda72f24fb3cfd734e794b886150ae4c4b855ab57945cc2e9247"
+    }
+  ]
+}
